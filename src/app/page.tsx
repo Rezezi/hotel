@@ -1,0 +1,14 @@
+import React from 'react';
+import Nav from './components/Nav';
+
+
+const BookingPage = () => {
+  return (
+    <div>
+      <Nav/>
+    </div>
+  
+  );
+};
+
+export default BookingPage;
